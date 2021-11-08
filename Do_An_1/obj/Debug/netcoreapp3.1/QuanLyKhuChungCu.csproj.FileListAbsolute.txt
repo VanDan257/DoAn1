@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\bin\Debug\netcoreapp3.1\QuanLyKhuChungCu.exe
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\bin\Debug\netcoreapp3.1\QuanLyKhuChungCu.deps.json
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\bin\Debug\netcoreapp3.1\QuanLyKhuChungCu.runtimeconfig.json
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\bin\Debug\netcoreapp3.1\QuanLyKhuChungCu.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\bin\Debug\netcoreapp3.1\QuanLyKhuChungCu.dll
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\bin\Debug\netcoreapp3.1\QuanLyKhuChungCu.pdb
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.dll
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.pdb
+C:\Users\Admin\Downloads\Do an 1\QuanLyKhuChungCu\Do_An_1\obj\Debug\netcoreapp3.1\QuanLyKhuChungCu.genruntimeconfig.cache

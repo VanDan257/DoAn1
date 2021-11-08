@@ -1,0 +1,7 @@
+001#Cat Vang#phia dong
+002#Dai Duong#trung tam
+003#Sao Bien#phia tay nam
+004#San Ho#phia dong nam
+005#Nhim Bien#phia tay
+006#Bach tuoc#phia bac
+007#Seraphia#phia tay bac
